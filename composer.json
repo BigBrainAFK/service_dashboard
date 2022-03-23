@@ -1,0 +1,6 @@
+{
+	"name": "service/dashboard",
+	"require": {
+		"chillerlan/php-qrcode": "dev-main#f7989417d3c50225c41d692a38a115e0077336c4"
+	}
+}
