@@ -14,3 +14,7 @@ No guarantees and the software is provided as is.
 - Rename `public/example_images` to `public/images` and edit all images to the desired needs
 - Replace `public/setup.exe` with a custom client that has the user-agent `Service-Client 1.0.1` or build this [client](https://github.com/BigBrainAFK/service_client)
 - Use php compose to install dependencies
+
+
+### Foot notes
+Originally written in 2020
